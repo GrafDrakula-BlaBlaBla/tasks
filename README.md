@@ -1,2 +1,2 @@
-### [Tasks CodeWars](https://github.com/auseika/kata-scan). 
+### [Kata Scan](https://github.com/auseika/kata-scan). 
  
